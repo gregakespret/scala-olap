@@ -1,0 +1,12 @@
+target/
+*.sc
+.classpath
+.project
+.cache
+.settings/org.scala-ide.sdt.core.prefs
+.worksheet/
+config/log4j.properties
+lib_managed/
+.idea/
+.settings/
+sbt/*.jar
